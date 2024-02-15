@@ -4,7 +4,7 @@ Meow language for fun :)
 ## PreView
 
 <pre>
-<img src="logo.png" >
+<img src="IMG_20240215_161008_215.jpg" >
 </pre>
 # install 
 ```
