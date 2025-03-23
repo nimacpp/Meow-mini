@@ -32,6 +32,7 @@ do it many times so that we can create a sentence or word with it.
 
 [word] -> Number of repetitions
 ```
+
 [a] -> 1        [b] -> 2        [c] -> 3        [d] -> 4
 [e] -> 5        [f] -> 6        [g] -> 7        [h] -> 8
 [i] -> 9        [j] -> 10       [k] -> 11       [l] -> 12
@@ -48,5 +49,6 @@ do it many times so that we can create a sentence or word with it.
 [Z] -> 53       [0] -> 54       [1] -> 55       [2] -> 56
 [3] -> 57       [4] -> 58       [5] -> 59       [6] -> 60
 [7] -> 61       [8] -> 62       [9] -> 63       [/] -> 64
-[*] -> 65       [-] -> 66       [+] -> 67
+[*] -> 65       [-] -> 66       [+] -> 67       [~] -> 68
+
 ```
