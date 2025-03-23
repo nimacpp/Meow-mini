@@ -4,7 +4,7 @@
 #include <fstream>
 
 using namespace std;
-string letters = "abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789/*-+";
+string letters = "abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789/*-+~!@#$%^&*()_+";
 string readfile(string name)
 	{
     ifstream file(name.c_str());
