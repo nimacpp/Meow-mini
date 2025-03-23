@@ -38,7 +38,7 @@ int main(int argc, char const *argv[])
 "       .  : `. .               it's the Meow lang and the only reason\n"
 "       : _   '  \\              to make it is to bring a smile to your\n"
 "       `-.-'          `-.      face .\n"
-"         ;       `       `.     \n"
+"         ;       `       `.     it's so funny\n"
 "         :.       .        \\    \n"
 "         . \\  .   :   .-'   .   \n"
 "         '  `+.;  ;  '      :   \n"
